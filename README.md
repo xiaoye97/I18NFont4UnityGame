@@ -1,0 +1,2 @@
+# I18NFont4UnityGame
+汉化Unity游戏所使用的通用字库插件，基于BepInEx
