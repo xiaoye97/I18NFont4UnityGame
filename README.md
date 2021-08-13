@@ -28,7 +28,7 @@ It can load custom font packages to fix the problem of missing fonts in the game
 2. Create a new project and install AssetBundleBrowser in PackageManager
 3. Change the font file name you want to make into a font package to all lowercase
 4. Put the font into unity
-5. Select the font and right-click Create - > TextSeshPro - > Font Asset
+5. Select the font and right-click, select Create->TextSeshPro->Font Asset
 6. Adjust TMP atlas settings, such as sampling rate, to achieve the desired effect
 7. On the Inspector panel, set the AssetBundle name for the imported font and TMP font. The name should be all lowercase and consistent with the file name of the font
 8. Open window - > Asset Bundle Browser to Package Fonts
