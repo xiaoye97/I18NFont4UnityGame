@@ -22,4 +22,17 @@ I18NFont4UnityGame是我为了汉化Unity游戏所制作的插件，基于[BepIn
 
 ## 如何制作字体包
 
-待补充
+1. 安装与游戏版本相同的Unity
+2. 新建一个项目，在PackageManager安装AssetBundleBrowser
+3. 将想要做成字体包的字体改名为全小写
+4. 将字体放入Unity
+5. 选中字体，右键Create->TextMeshPro->Font Asset
+6. 调整TMP图集设置，如采样率等，以达到自己想要的效果
+7. 在Inspector面板为导入的字体和TMP字体设置AssetBundle名，名字要全小写，和字体的文件名一致
+8. 打开Window->Asset Bundle Browser，打包字体
+9. 将生成的字体包放入 GameName/BepInEx/plugins/I18NFont4UnityGame/ 文件夹
+
+## 我参与的汉化项目
+
+1. [VRoidStudio汉化](https://github.com/xiaoye97/VRoidChinese)
+2. [星际漫游者汉化](https://youhanhua.com/527.html)
