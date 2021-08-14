@@ -17,8 +17,8 @@ I18NFont4UnityGame是我为了汉化Unity游戏所制作的插件，基于[BepIn
 9. 进入游戏
 
 ## 推荐字体
-- `思源黑体` 适用于中国日本韩国等地的比较好看的字体 [https://github.com/adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans)
-- `Unifont` 适用于几乎所有地区，但是不太清晰 [http://unifoundry.com/unifont/index.html](http://unifoundry.com/unifont/index.html)
+- `思源黑体` [字体包文件](UnityFonts/source_han_sans) 适用于中国日本韩国等地的比较好看的字体 [https://github.com/adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans)
+- `Unifont` [字体包文件](UnityFonts/unifont) 适用于几乎所有地区，但是不太清晰 [http://unifoundry.com/unifont/index.html](http://unifoundry.com/unifont/index.html)
 
 ## 如何制作字体包
 
